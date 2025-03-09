@@ -2,4 +2,8 @@
 first Git repository
 <br>
 Author-jayprakash
+# teacher
+jay prakash
 
+#student
+jpppeee
